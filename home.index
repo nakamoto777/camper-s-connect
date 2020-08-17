@@ -1,0 +1,103 @@
+<!-- ホーム画面 -->
+  <ons-toolbar>
+    <div class="center">Camper's Connect</div>
+  </ons-toolbar>
+  
+  <p style="text-align: center;">
+    <div style="padding: 1px 0 0 0;">
+  <div class="card">
+    <img src="./XjBy755__400x400.jpg" class="homeicon">
+  <id="name">ALPHA TEC
+  <p class="inline">
+    <img src="tent_Photo.jpg"  class="homephoto">
+    <img src="comment.jpg"  class="commenticon">
+    <img src="like.png" class="likeicon">
+    <div class="card_content">気持ちの良い天気です。</div>
+    <br>
+    <p><font size="-1">2020/08/08</p> 
+    <div style="text-align: right"><font color="#0000ff">すべてを表示</font></div>
+  </div>
+</div>
+
+ <p style="text-align: center;">
+    <div style="padding: 1px 0 0 0;">
+  <div class="card">
+    <img src="cabhey.jpg" class="homeicon">
+  <id="name">DJ cabhey
+  <p class="inline">
+    <img src="cabheycamp2.jpg"  class="homephoto">
+    <img src="comment.jpg"  class="commenticon">
+    <img src="like.png" class="likeicon">
+    <div class="card_content">明日でCABHEY RIDE ON!!の一周年ｺﾝｸﾞﾗｧｧｯｧｱｧｯｯつーわけでこの濃い１年をまとめた動画を作ったので是非チェケしてねッッ!!</div>
+    <br>
+    <p><font size="-1">2020/08/07</p> 
+    <div style="text-align: right"><font color="#0000ff">すべてを表示</font></div>
+  </div>
+</div>
+
+ <p style="text-align: center;">
+    <div style="padding: 1px 0 0 0;">
+  <div class="card">
+    <img src="chibii.jpg" class="homeicon">
+  <id="name">ちびぃ(Chibii)🇯🇵JP
+  <p class="inline">
+    <img src="chibiicamp1.jpg"  class="homephoto"">
+    <img src="comment.jpg"  class="commenticon">
+    <img src="like.png" class="likeicon">
+    <div class="card_content">野営地探しをしてて偶然見つけた場所が
+とっても素敵な場所でした🌲✨</div>
+    <br>
+    <p><font size="-1">2020/08/06</p> 
+    <div style="text-align: right"><font color="#0000ff">すべてを表示</font></div>
+  </div>
+</div>
+
+ <p style="text-align: center;">
+    <div style="padding: 1px 0 0 0;">
+  <div class="card">
+    <img src="./XjBy755__400x400.jpg" class="homeicon">
+  <id="name">ALPHA TEC
+  <p class="inline">
+    <img src="camp2.jpg"  class="homephoto">
+    <img src="comment.jpg"  class="commenticon">
+    <img src="like.png" class="likeicon">
+    <div class="card_content">今日はヒロシさんとご一緒してます。</div>
+    <br>
+    <p><font size="-1">2020/08/05</p> 
+    <div style="text-align: right"><font color="#0000ff">すべてを表示</font></div>
+  </div>
+</div>
+
+ <p style="text-align: center;">
+    <div style="padding: 1px 0 0 0;">
+  <div class="card">
+    <img src="CartopboaterNORA.jpg" class="homeicon">
+  <id="name">CartopboaterNORA
+  <p class="inline">
+    <img src="NORA.jpg"  class="homephoto">
+    <img src="comment.jpg"  class="commenticon">
+    <img src="like.png" class="likeicon">
+    <div class="card_content">アルバイトして買った小舟で釣りして野営キャンプしたよ！</div>
+    <br>
+    <p><font size="-1">2020/08/04</p> 
+    <div style="text-align: right"><font color="#0000ff">すべてを表示</font></div>
+  </div>
+</div>
+
+ <p style="text-align: center;">
+    <div style="padding: 1px 0 0 0;">
+  <div class="card">
+    <img src="./XjBy755__400x400.jpg" class="homeicon">
+  <id="name">ALPHA TEC
+  <p class="inline">
+    <img src="arufa.jpg"  class="homephoto">
+    <img src="comment.jpg"  class="commenticon">
+    <img src="like.png" class="likeicon">
+    <div class="card_content">今日はソロベースです。</div>
+    <br>
+    <p><font size="-1">2020/08/03</p> 
+    <div style="text-align: right"><font color="#0000ff">すべてを表示</font></div>
+  </div>
+</div>
+
+</ons-page>
